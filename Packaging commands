@@ -1,0 +1,1 @@
+pyinstaller -F -w --add-data "Excel:Excel" --add-data "icon:icon" .\main.py
